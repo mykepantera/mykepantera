@@ -1,0 +1,77 @@
+@font-face {
+  font-family: 'RegularMedium';
+  src: url('Regular-MediumWeb.eot')
+}
+
+@font-face {
+  font-family: 'RegularMedium';
+  src: url('Regular-MediumWeb.woff') format("woff");
+}
+
+body {
+  background-color: black;
+  color: white;
+  font-family: RegularMedium, Verdana, Geneva, sans-serif;
+  font-size: 14px;
+}
+
+h1 {
+  font-size: xx-large;
+  font-weight: normal;
+  text-align: center;
+}
+
+.headline {
+  font-size: xx-large;
+}
+
+table {
+  table-layout: fixed;
+  width: 100%;
+  border: none;
+  border-collapse: collapse;
+}
+
+th {
+  text-align: left;
+  padding: 7px;
+  font-size: 22px;
+  font-weight: normal;
+}
+
+td {
+  text-align: left;
+  padding: 7px;
+}
+
+tr:nth-of-type(even) {
+  background-color: #0F0F0F;
+}
+
+tr:nth-of-type(odd) {
+  background-color: #000000;
+}
+
+img {
+  width: 256px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+a:link {
+    color: orange;
+}
+
+a:visited {
+    color: gray;
+}
+
+a:hover {
+    color: yellow;
+}
+
+/* selected link */
+a:active {
+    color: crimson;
+}

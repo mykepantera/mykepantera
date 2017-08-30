@@ -1,3 +1,4 @@
 # mykepantera
 
-Just trying out github for the first time. Nothing of interest in here.
+Just hosting some mech tables for MWO
+
