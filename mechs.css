@@ -25,6 +25,10 @@ h1 {
   font-size: xx-large;
 }
 
+.fixed {
+  color: gray;
+}
+
 table {
   table-layout: fixed;
   width: 100%;
