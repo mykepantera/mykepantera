@@ -89,7 +89,7 @@ end
 
 begin
   if ARGV.length == 0
-    puts "cvstobbcode.rb <filename>"
+    puts "cvstohtml.rb <filename>"
     exit
   end
   if ! File.file? ARGV[0]
@@ -107,19 +107,18 @@ begin
   while (line = lights.gets)
     combined = 0
     line.chomp.split(SPLIT_CHAR, -1).each_with_index do |cell, i|
-      
       # combine split cell
       escaped = cell.include?(ESCAPE_CHAR)
       if escaped and multicell.nil?
         multicell = cell.sub(ESCAPE_CHAR, '')
         next
       elsif escaped
-        multicell = multicell.concat(SPLIT_CHAR, cell.sub(ESCAPE_CHAR, ''))
+        multicell.concat(SPLIT_CHAR).concat(cell.sub(ESCAPE_CHAR, ''))
         cell = multicell
         multicell = nil
         combined += 1
       elsif !multicell.nil?
-        multicell = multicell.concat(SPLIT_CHAR, cell)
+        multicell.concat(SPLIT_CHAR).concat(cell)
         combined += 1
         next
       end

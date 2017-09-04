@@ -28,8 +28,8 @@ h1 {
 table {
   table-layout: fixed;
   width: 100%;
-  border: none;
-  border-collapse: collapse;
+  /* border: none;
+  border-collapse: collapse; */
 }
 
 th {
@@ -41,6 +41,7 @@ th {
 
 td {
   text-align: left;
+  vertical-align: top;
   padding: 7px;
 }
 
