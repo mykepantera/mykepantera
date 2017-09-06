@@ -44,7 +44,7 @@ class HTMLTableWriter
     if colspan > 1
       @table << @indent << "<td colspan=\"#{colspan}\"><span class=\"headline\">" << content << '</span></td>' << NL
     else
-      @table << @indent << '<td>' << content << '</td>' << NL
+      @table << @indent << '<td>' << formatContent(content) << '</td>' << NL
     end
   end
   
@@ -85,6 +85,20 @@ class HTMLTableWriter
       clear()
     end
   end
+  
+  private
+  
+  def formatContent(content)
+    if content.include?('(')
+      content.gsub!('(', '<span class="fixed">(')
+      content.gsub!(')', ')</span>')
+    end
+    if content.include?('*')
+      content.gsub!('*').with_index(1) {|_,i| i.odd? ? '<span class="fixed">' : '</span>'}
+    end
+    return content
+  end
+  
 end
 
 begin
