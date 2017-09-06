@@ -160,7 +160,7 @@ begin
             break
           elsif cell.start_with?("Overview")
             generator.addCell(cell, columns - 1)
-          elsif cell.end_with?("jpg") or cell.end_with?("png")
+          elsif cell.end_with?("jpg") or cell.end_with?("png") or cell.end_with?("gif")
             generator.image = cell
             break
           else

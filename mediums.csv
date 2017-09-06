@@ -1,0 +1,67 @@
+,,,,,
+,Mediums,,,,
+,,,,,
+,Inner Sphere,,,,
+,,,,,
+,Chimera,CMA-1S,CMA-C,,
+,Overview,http://cfw.sarna.net/wiki/images/b/b4/Chimera.gif,,,
+,Type,Battlemech,Battlemech,,
+,Tonnage,40,40,,
+,Engine,240 XL,240 XL,,
+,Top Speed,97.2 kph,97.2 kph,,
+,Max. Engine,315,315,,
+,Armor,Standard,Standard,,
+,Internal Structure,Endo-Steel,Endo-Steel,,
+,Heat Sinks,10 Double,10 Double,,
+,Jump Jets,6,6,,
+,ECM Capable,No,No,,
+,MASC Capable,No,No,,
+,Weapons and Equipment,,,,
+,Head,,,,
+,Left Arm,"ER Large Laser, ER Medium Laser","ER Large Laser, ER Medium Laser",,
+,Left Torso,Jump Jet x3,Jump Jet x3,,
+,Center Torso,Engine,Engine,,
+,Right Torso,"MRM-20, MRM Ammo x2, Machine Gun Ammo x0.5, Jump Jet x3","MRM-20, MRM Ammo x2, C3 Computer Slave, Jump Jet x3",,
+,Right Arm,"Machine Gun, Double Heat Sink",Double Heat Sink,,
+,Left Leg,,,,
+,Right Leg,,,,
+,Hardpoints,,,,
+,Head,,,,
+,Left Arm,"2 Energy (Actuators: Upper, Lower)","3(2) Energy (Actuators: Upper, Lower)",,
+,Left Torso,,,,
+,Center Torso,,,,
+,Right Torso,2(1) Missile,3(1) Missile,,
+,Right Arm,"2(1) Ballistic (Actuators: Upper, Lower)","(Actuators: Upper, Lower)",,
+,,,,,
+,,,,,
+,Scorpion,SCP-1N,SCP-1O,SCP-12C,SCP-12S
+,Overview,http://cfw.sarna.net/wiki/images/c/c7/3025scorpion.jpg,,,
+,Type,Battlemech (Quad),Battlemech (Quad),Battlemech (Quad),Battlemech (Quad)
+,Tonnage,55,55,55,55
+,Engine,330 Standard,330 Standard,330 XL,330 Light Fusion
+,Top Speed,97.2 kph,97.2 kph,97.2 kph,97.2 kph
+,Max. Engine,400,400,400,400
+,Armor,Standard,Standard,Ferro-Fibrous,Standard
+,Internal Structure,Standard,Standard,Standard,Endo-Steel
+,Heat Sinks,10 Single,10 Double,10 Double,10 Double
+,Jump Jets,No,No,No,No
+,ECM Capable,No,No,No,No
+,MASC Capable,No,No,No,No
+,Weapons and Equipment,,,,
+,Head,,,,
+,Front Left Leg,,,,
+,Left Torso,SRM Ammo,SRM Ammo,"ER Small Laser, Narc Ammo x4","LBX Ammo x2, SRM Ammo, CASE"
+,Center Torso,Engine,Engine,"Engine, Improved C3 Computer",Engine
+,Right Torso,"PPC, SRM-6","ER PPC, SRM-6","ER PPC, Narc","LBX-10, SRM-6"
+,Front Right Leg,,,,
+,Rear Left Leg,,,,
+,Rear Right Leg,,,,
+,Hardpoints,,,,
+,Head,,,,
+,Front Left Leg,"(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)"
+,Left Torso,,,2(1) Energy,
+,Center Torso,,,,
+,Right Torso,"3(1) Energy, 3(1) Missile","4(1) Energy, 2(1) Missile","2(1) Energy, 2(1) Missile","4(1) Ballistic, 2(1) Missile"
+,Front Right Leg,"(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)"
+,Rear Left Leg,"(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)"
+,Rear Right Leg,"(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)"
