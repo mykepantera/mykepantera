@@ -29,11 +29,16 @@ h1 {
   color: gray;
 }
 
+p.source {
+  color: orange;
+  text-align: center;
+}
+
 table {
   table-layout: fixed;
   width: 100%;
-  /* border: none;
-  border-collapse: collapse; */
+  border: none;
+  border-collapse: collapse;
 }
 
 th {
@@ -60,8 +65,10 @@ tr:nth-of-type(odd) {
 img {
   width: 256px;
   height: auto;
-  display: block;
-  margin: 0 auto;
+}
+
+p.image {
+  text-align: center;
 }
 
 a:link {

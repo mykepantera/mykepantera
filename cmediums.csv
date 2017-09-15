@@ -1,0 +1,93 @@
+,,,,,,,,
+,Mediums,,,,,,,
+,,,,,,,,
+,Clan,,,,,,,
+,,,,,,,,
+,Stooping Hawk,Prime,A,B,C,D,E,
+,Overview,http://cfw.sarna.net/wiki/images/8/86/Stooping_Hawk.jpg,,,,,,
+,Type,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech,
+,Tonnage,55,55,55,55,55,55,
+,Engine,275 Standard,275 Standard,275 Standard,275 Standard,275 Standard,275 Standard,
+,Top Speed,81 kph,81 kph,81 kph,81 kph,81 kph,81 kph,
+,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,
+,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,
+,Heat Sinks,10 Double,17 Double,10 Double,17 Double,22 Double,10 Double,
+,Jump Jets,5,5,No,5,No,No,
+,ECM Capable,No,No,No,No,No,No,
+,MASC Capable,No,No,No,No,No,No,
+,Weapons and Equipment,,,,,,,
+,Head,,,ER Large Laser,ER Large Laser,ER Large Laser,,
+,Left Arm,"Medium Pulse Laser, ER Medium Laser, *Fixed Armor Slot x3*","Double Heat Sink, *Fixed Armor Slot x3*",*Fixed Armor Slot x3*,"ER Medium Laser, *Fixed Armor Slot x3*","ER Medium Laser x2, ER Small Laser, Double Heat Sink, *Fixed Armor Slot x3*","ATM-3 x2,*Fixed Armor Slot x3*",
+,Left Torso,"*Jump Jet x2,*Fixed Armor Slot x2*","ER PPC, Double Heat Sink x3, *Jump Jet x2, Fixed Armor Slot x2*","LRM-15 Artemis, LRM Ammo x2, *Fixed Armor Slot x2*","Targeting Computer, Double Heat Sink x3, *Jump Jet x2, Fixed Armor Slot x2*","Double Heat Sink x5, *Fixed Armor Slot x2*","ATM-3, ATM Ammo x3, *Fixed Armor Slot x2*",
+,Center Torso,"*Engine, Jump Jet*","*Engine, Jump Jet*",*Engine*,"*Engine, Jump Jet*, ER Large Laser","*Engine*, Double Heat Sink",*Engine*,
+,Right Torso,"Ultra AC/10, AC Ammo x2, *Jump Jet x2, Fixed Structure Slot x2*","ER PPC, Double Heat Sink x3, *Jump Jet x2, Fixed Structure Slot x2*","LRM-15 Artemis, LRM Ammo x2, *Fixed Structure Slot x2*","ER Medium Laser, Double Heat Sink x3, *Jump Jet x2, Fixed Structure Slot x2*","Double Heat Sink x5, *Fixed Structure Slot x2*","LBX 10, LBX Ammo x2, *Fixed Structure Slot x2*",
+,Right Arm,"Medium Pulse Laser, ER Medium Laser, *Fixed Structure Slot x3*",*Fixed Structure Slot x3*,"LRM-15 Artemis, *Fixed Structure Slot x3*","Double Heat Sink, *Fixed Structure Slot x3*","Heavy Medium Laser x3, *Fixed Structure Slot x3*","ER Medium Laser x2, *Fixed Structure Slot x3*",
+,Left Leg,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*,
+,Right Leg,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,
+,Omnipods,,,,,,,
+,Head,,,1 Energy,1 Energy,1 Energy,,
+,Left Arm,"2 Energy (Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)","1 Energy (Available Actuators: Upper, Lower, Hand)","3 Energy (Available Actuators: Upper, Lower, Hand)","2 Missile (Available Actuators: Upper, Lower, Hand)",
+,Left Torso,2 Jump Jet,"1 Energy, 2 Jump Jet",1 Missile,2 Jump Jet,,1 Missile,
+,Center Torso,1 Jump Jet,1 Jump Jet,,"1 Energy, 1 Jump Jet",,,
+,Right Torso,"1 Ballistic, 2 Jump Jet","1 Energy, 2 Jump Jet",1 Missile,"1 Energy, 2 Jump Jet",,1 Ballistic,
+,Right Arm,"2 Energy (Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)","1 Missile (Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)","3 Energy (Available Actuators: Upper, Lower)","2 Energy (Available Actuators: Upper, Lower, Hand)",
+,,,,,,,,
+,,,,,,,,
+,Black Lanner,Prime,A,B,C,D,E,H
+,Overview,http://cfw.sarna.net/wiki/images/7/75/Blacklanner.jpg,,,,,,
+,Type,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech
+,Tonnage,55,55,55,55,55,55,55
+,Engine,385 XL,385 XL,385 XL,385 XL,385 XL,385 XL,385 XL
+,Top Speed,113.4 kph,113.4 kph,113.4 kph,113.4 kph,113.4 kph,113.4 kph,113.4 kph
+,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous
+,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel
+,Heat Sinks,10 Double,10 Double,10 Double,13 Double,10 Double,10 Double,14 Double
+,Jump Jets,No,No,No,No,No,No,No
+,ECM Capable,Yes,Yes,No,No,No,No,Yes
+,MASC Capable,Yes,Yes,Yes,Yes,Yes,Yes,Yes
+,Weapons and Equipment,,,,,,,
+,Head,ECM,ECM,,,BAP,,ECM
+,Left Arm,"ER Medium Laser x2, *Fixed Armor Slot x2*","Medium Pulse Laser x2, *Fixed Armor Slot x2*","LRM-20, *Fixed Armor Slot x2*","ER Medium Laser x6, *Fixed Armor Slot x2*","Medium Pulse Laser, ER Small Laser, Machine Gun x2, *Fixed Armor Slot x2*","ATM-12, ATM Ammo x3, *Fixed Armor Slot x2*","Medium Pulse Laser x2, Double Heat Sink, *Fixed Armor Slot x2*"
+,Left Torso,"LRM-10, LRM Ammo, *Fixed Structure Slot x3*","TAG, *Fixed Structure Slot x3*","LRM Ammo x2, *Fixed Structure Slot x3*","Double Heat Sink x3, *Fixed Structure Slot x3*","SRM-6, Flamer, Machine Gun Ammo x0.5, *Fixed Structure Slot x3*",*Fixed Structure Slot x3*,"Double Heat Sink, *Fixed Structure Slot x3*"
+,Center Torso,"*Engine, MASC*","*Engine, MASC*","*Engine, MASC*","*Engine, MASC*","*Engine, MASC*","*Engine, MASC*","*Engine, MASC*"
+,Right Torso,"SRM-6, SRM Ammo, *Fixed Armor Slot x3*","BAP, *Fixed Armor Slot x3*","LRM Ammo, *Fixed Armor Slot x3*",*Fixed Armor Slot x3*,"SRM-6, SRM Ammo x2, *Fixed Armor Slot x3*",*Fixed Armor Slot x3*,"Double Heat Sink, *Fixed Armor Slot x3*"
+,Right Arm,"ER Large Laser, *Fixed Structure Slot x2*","ER PPC, *Fixed Structure Slot x2*","LRM-20, *Fixed Structure Slot x2*","Streak SRM-6, Streak Ammo, *Fixed Structure Slot x2*","Medium Pulse Laser, ER Small Laser, Machine Gun x2, *Fixed Structure Slot x2*","ER Medium Laser x3, *Fixed Structure Slot x2*","Heavy Large Laser, Double Heat Sink, *Fixed Structure Slot x2*"
+,Left Leg,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*
+,Right Leg,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*,*Fixed Armor Slot x2*
+,Omnipods,,,,,,,
+,Head,ECM,ECM,,,,,ECM
+,Left Arm,2 Energy (Available Actuators: Upper),2 Energy (Available Actuators: Upper),1 Missile (Available Actuators: Upper),6 Energy (Available Actuators: Upper),"2 Ballistic, 2 Energy (Available Actuators: Upper)",1 Missile (Available Actuators: Upper),2 Energy (Available Actuators: Upper)
+,Left Torso,1 Missile,1 Energy ,,,"1 Energy, 1 Missile",,
+,Center Torso,,,,,,,
+,Right Torso,1 Missile,,,,1 Missile,,
+,Right Arm,"1 Energy (Available Actuators: Upper, Lower)",1 Energy (Available Actuators: Upper),1 Missile (Available Actuators: Upper),1 Missile (Available Actuators: Upper),"2 Ballistic, 2 Energy (Available Actuators: Upper)",3 Energy (Available Actuators: Upper),1 Energy (Available Actuators: Upper)
+,,,,,,,,
+,,,,,,,,
+,Goshawk,Goshawk,Goshawk 2,Goshawk 3,Goshawk 4,,,
+,Overview,http://cfw.sarna.net/wiki/images/a/a9/Vapor_Eagle%28Goshawk%29.jpg,,,,,,
+,Type,Battlemech,Battlemech,Battlemech,Battlemech,,,
+,Tonnage,55,55,55,55,,,
+,Engine,330 XL,330 XL,330 XL,330 XL,,,
+,Top Speed,97.2 kph,97.2 kph,97.2 kph,97.2 kph,,,
+,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,,,
+,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,,,
+,Heat Sinks,11 Double,10 Double,15 Double,17 Double,,,
+,Jump Jets,6,6,6,No,,,
+,ECM Capable,No,No,No,No,,,
+,MASC Capable,No,No,No,No,,,
+,Weapons and Equipment,,,,,,,
+,Head,,,,,,,
+,Left Arm,"Machine Gun x3, Machine Gun Ammo, x0.5","Machine Gun x3, Machine Gun Ammo x0.5","ATM-3, ATM Ammo",ER Small Laser x3,,,
+,Left Torso,"Streak SRM-2, Machine Gun, Medium Pulse Laser, Streak Ammo, Jump Jet","Ultra AC/10, Machine Gun, Jump Jet","SRM-2, SRM Ammo, Heavy Medium Laser, Double Heat Sink, Jump Jet","ATM-6, ATM Ammo x2, Double Heat Sink",,,
+,Center Torso,Engine,Engine,Engine,Engine,,,
+,Right Torso,"Streak SRM-2, Medium Pulse Laser x2, Targeting Computer, Jump Jet","Medium Pulse Laser, Targeting Computer, UAC Ammo x2, Jump Jet","SRM-2, Heavy Medium Laser x2, Double Heat Sink, Targeting Computer, Jump Jet","ATM-6, ATM Ammo x2, Double Heat Sink",,,
+,Right Arm,Large Pulse Laser,Medium Pulse Laser,ER PPC,ER Medium Laser x4,,,
+,Left Leg,Jump Jet x2,Jump Jet x2,Jump Jet x2,Double Heat Sink,,,
+,Right Leg,Jump Jet x2,Jump Jet x2,Jump Jet x2,Double Heat Sink,,,
+,Hardpoints,,,,,,,
+,Head,,,,,,,
+,Left Arm,"3 Ballistic (Available Actuators: Upper, Lower, Hand)","3 Ballistic (Available Actuators: Upper, Lower, Hand)","1 Missile (Available Actuators: Upper, Lower, Hand)","3 Energy (Available Actuators: Upper, Lower, Hand)",,,
+,Left Torso,"1 Ballistic, 1 Energy, 1 Missile",2 Ballistic,"1 Energy, 1 Missile",1 Missile,,,
+,Center Torso,,,,,,,
+,Right Torso,"2 Energy, 1 Missile",1 Energy ,"2 Energy, 1 Missile",1 Missile,,,
+,Right Arm,"1 Energy (Available Actuators: Upper, Lower)","1 Energy (Available Actuators: Upper, Lower)","1 Energy (Available Actuators: Upper, Lower)","4 Energy (Available Actuators: Upper, Lower, Hand)",,,

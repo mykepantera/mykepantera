@@ -10,11 +10,7 @@ TEMPLATE = "mech_template.html"
 class HTMLTableWriter
 
   def initialize
-    @title = ""
-    @table = ""
-    @indent = ""
-    @table = ""
-    @image = nil
+    clear
     
     if File.file?(TEMPLATE)
       @template = File.read(TEMPLATE)
@@ -25,6 +21,7 @@ class HTMLTableWriter
     @title = name
     @table << @indent << '<table>' << NL
     @indent << "  "
+    @sarna.gsub!('Main_Page', @title.gsub(' ', '%20'))
   end
   
   def endTable
@@ -56,9 +53,16 @@ class HTMLTableWriter
     @image = image
   end
   
+  def sarna=(source)
+    @sarna = source
+  end
+  
   def clear
-    @indent = ""
+    @title = ""
     @table = ""
+    @indent = ""
+    @image = nil
+    @sarna = "http://www.sarna.net/wiki/Main_Page"
   end
   
   def print(path, clear)
@@ -78,6 +82,7 @@ class HTMLTableWriter
       if !@image.nil?
         content.gsub!(/@image@/, @image)
       end
+      content.gsub!(/@sarna@/, @sarna)
     end
     File.write(filename, content)
     
@@ -118,6 +123,7 @@ begin
   columns = 0
   multicell = nil
   path = nil
+  overview = false
   while (line = lights.gets)
     combined = 0
     line.chomp.split(SPLIT_CHAR, -1).each_with_index do |cell, i|
@@ -174,9 +180,15 @@ begin
             break
           elsif cell.start_with?("Overview")
             generator.addCell(cell, columns - 1)
-          elsif cell.end_with?("jpg") or cell.end_with?("png") or cell.end_with?("gif")
-            generator.image = cell
-            break
+            overview = true
+            next
+          elsif overview 
+            if i == 2 && cell.end_with?("jpg") or cell.end_with?("png") or cell.end_with?("gif")
+              generator.image = cell
+            elsif i == 3 && !cell.empty?
+              generator.sarna = cell
+              break
+            end
           else
             generator.addCell(cell)
           end
@@ -187,6 +199,7 @@ begin
     if content > 0
       generator.endRow
     end
+    overview = false
   end
   if content > 1
     generator.endTable
