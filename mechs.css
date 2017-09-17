@@ -65,6 +65,7 @@ tr:nth-of-type(odd) {
 img {
   width: 256px;
   height: auto;
+  background-color: white;
 }
 
 p.image {
