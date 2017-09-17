@@ -31,7 +31,7 @@
 ,Left Torso,3(1) Missile,3 Energy,3(1) Ballistic,,1 Energy,2 Energy,ECM,,,4 Energy
 ,Center Torso,,,,,,,,,ECM,
 ,Right Torso,,,,,2 Energy,2 Energy,2(1) Missile,3(1) Missile,,
-,Right Arm,"2(1) Energy (Actuators: Upper, Lower, Hand)","2(1) Energy (Actuators: Upper, Lower, Hand)","2(1) Energy (Actuators: Upper, Lower, Hand)","1 Missile (Actuators: Upper, Lower)","2(1) Energy (Actuators: Upper, Lower)","2 Energy (Actuators: Upper, Lower)","2(1) Energy (Actuators: Upper, Lower)","3(1) Energy (Actuators: Upper, Lower)","3(2) Energy (Actuators: Upper, Lower)","2 Energy (Actuators: Upper, Lower)"
+,Right Arm,"3(1) Energy (Actuators: Upper, Lower, Hand)","3(1) Energy (Actuators: Upper, Lower, Hand)","3(1) Energy (Actuators: Upper, Lower, Hand)","1 Missile (Actuators: Upper, Lower)","2(1) Energy (Actuators: Upper, Lower)","2 Energy (Actuators: Upper, Lower)","2(1) Energy (Actuators: Upper, Lower)","3(1) Energy (Actuators: Upper, Lower)","3(2) Energy (Actuators: Upper, Lower)","2 Energy (Actuators: Upper, Lower)"
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,Raptor,RTX1-O,RTX1-OA,RTX1-OB,RTX1-OC,RTX1-OD,RTX1-OE,RTX1-OF,RTX1-OR,,
@@ -215,10 +215,10 @@
 ,Hardpoints,,,,,,,,,,
 ,Head,,,,1 Energy,,,,,,
 ,Left Arm,"2(1) Energy (Actuators: Upper, Lower)","1 Energy (Actuators: Upper, Lower)","1 Energy (Actuators: Upper, Lower)","1 Energy (Actuators: Upper, Lower)","3(1) Energy (Actuators: Upper, Lower)","2(1) Energy (Actuators: Upper, Lower)","(Actuators: Upper, Lower)","2 Energy (Actuators: Upper, Lower)","3(2) Energy (Actuators: Upper, Lower)","1 Energy (Actuators: Upper, Lower)"
-,Left Torso,,,,2 Energy,,,1 Energy,,,
+,Left Torso,,,,2 Energy,,,3(2) Energy,,,
 ,Center Torso,2(1) Energy ,1 Energy ,1 Energy,,,,,2 Energy,,2(1) Energy
 ,Right Torso,,,,,,ECM,ECM,"1 Energy, ECM",ECM,ECM
-,Right Arm,"1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","2(1) Energy (Actuators: Upper, Lower, Hand)","2(1) Energy (Actuators: Upper, Lower, Hand)","3(2) Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","3 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)"
+,Right Arm,"2(1) Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","3(1) Energy (Actuators: Upper, Lower, Hand)","2(1) Energy (Actuators: Upper, Lower, Hand)","3(2) Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","3 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)"
 ,,,,,,,,,,,
 ,,,,,,,,,,,
 ,Anubis,ABS-3L,ABS-3R,ABS-3T,,,,,,,
@@ -276,10 +276,10 @@
 ,Right Leg,,,,,,,,,,
 ,Hardpoints,,,,,,,,,,
 ,Head,,,,,,,,,,
-,Left Arm,"(Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","(Actuators: Upper, Lower, Hand)","(Actuators: Upper, Lower, Hand)",,,,,,
-,Left Torso,,,"1 Energy, 1 Missile",,,,,,,
+,Left Arm,"(Actuators: Upper, Lower, Hand)","2(1) Energy (Actuators: Upper, Lower, Hand)","(Actuators: Upper, Lower, Hand)","(Actuators: Upper, Lower, Hand)",,,,,,
+,Left Torso,,,"2(1) Energy, 2(1) Missile",,,,,,,
 ,Center Torso,,,,,,,,,,
-,Right Torso,4(1) Ballistic,2(1) Ballistic,3(1) Ballistic,6(1) Ballistic,,,,,,
+,Right Torso,8(1) Ballistic,2(1) Ballistic,3(1) Ballistic,6(1) Ballistic,,,,,,
 ,Right Arm,"(Actuators: Upper, Lower, Hand)","2(1) Energy (Actuators: Upper, Lower, Hand)","(Actuators: Upper, Lower, Hand)","(Actuators: Upper, Lower, Hand)",,,,,,
 ,,,,,,,,,,,
 ,,,,,,,,,,,
