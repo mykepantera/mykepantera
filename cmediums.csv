@@ -69,6 +69,7 @@
 ,Tonnage,55,55,55,55,,,
 ,Engine,330 XL,330 XL,330 XL,330 XL,,,
 ,Top Speed,97.2 kph,97.2 kph,97.2 kph,97.2 kph,,,
+,Max. Engine,330-400,330-400,330-400,330-400,,,
 ,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,,,
 ,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,,,
 ,Heat Sinks,11 Double,10 Double,15 Double,17 Double,,,
@@ -91,3 +92,124 @@
 ,Center Torso,,,,,,,
 ,Right Torso,"2 Energy, 1 Missile",1 Energy ,"2 Energy, 1 Missile",1 Missile,,,
 ,Right Arm,"1 Energy (Available Actuators: Upper, Lower)","1 Energy (Available Actuators: Upper, Lower)","1 Energy (Available Actuators: Upper, Lower)","4 Energy (Available Actuators: Upper, Lower, Hand)",,,
+,,,,,,,,
+,,,,,,,,
+,Battle Cobra CL,Prime,A,B,C,F,H,
+,Overview,http://cfw.sarna.net/wiki/images/c/c3/Battlecobra.jpg,http://www.sarna.net/wiki/Battle_Cobra,,,,,
+,Type,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech,
+,Tonnage,40,40,40,40,40,40,
+,Engine,240 Standard,240 Standard,240 Standard,240 Standard,240 Standard,240 Standard,
+,Top Speed,97.2 kph,97.2 kph,97.2 kph,97.2 kph,97.2 kph,97.2 kph,
+,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,
+,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,
+,Heat Sinks,10 Double,10 Double,10 Double,10 Double,14 Double,10 Double,
+,Jump Jets,No,No,No,No,No,6,
+,ECM Capable,No,No,No,No,No,No,
+,MASC Capable,No,No,No,No,No,No,
+,Weapons and Equipment,,,,,,,
+,Head,,,,,,,
+,Left Arm,"Large Pulse Laser, Small Pulse Laser","Medium Pulse Laser x2, Small Pulse Laser x3","ER PPC, Small Pulse Laser","ATM-9, ATM Ammo x2","ER Large Laser, Heavy Medium Laser",ER Medium Laser x3,
+,Left Torso,"*Fixed Armor Slot x3, Fixed Structure Slot x3*","*Fixed Armor Slot x3, Fixed Structure Slot x3*","*Fixed Armor Slot x3, Fixed Structure Slot x3*","*Fixed Armor Slot x3, Fixed Structure Slot x3*","Double Heat Sink, *Fixed Armor Slot x3, Fixed Structure Slot x3*","Jump Jet x3, *Fixed Armor Slot x3, Fixed Structure Slot x3*",
+,Center Torso,"*Engine, Fixed Armor Slot, Fixed Structure Slot*","*Engine, Fixed Armor Slot, Fixed Structure Slot*","*Engine, Fixed Armor Slot, Fixed Structure Slot*","*Engine, Fixed Armor Slot, Fixed Structure Slot*","*Engine, Fixed Armor Slot, Fixed Structure Slot*","*Engine, Fixed Armor Slot, Fixed Structure Slot*",
+,Right Torso,"*Fixed Armor Slot x3, Fixed Structure Slot x3*","*Fixed Armor Slot x3, Fixed Structure Slot x3*","*Fixed Armor Slot x3, Fixed Structure Slot x3*","*Fixed Armor Slot x3, Fixed Structure Slot x3*","Double Heat Sink, *Fixed Armor Slot x3, Fixed Structure Slot x3*","Jump Jet x3, *Fixed Armor Slot x3, Fixed Structure Slot x3*",
+,Right Arm,"Large Pulse Laser, Small Pulse Laser","Medium Pulse Laser x2, Small Pulse Laser x3","ER PPC, Small Pulse Laser","Medium Pulse Laser x3, Small Pulse Laser","ER Large Laser, Heavy Medium Laser, Double Heat Sink","Ultra AC/5, AC Ammo",
+,Left Leg,,,,,Double Heat Sink,,
+,Right Leg,*Fixed Double Heat Sink*,*Fixed Double Heat Sink*,*Fixed Double Heat Sink*,*Fixed Double Heat Sink*,*Fixed Double Heat Sink*,*Fixed Double Heat Sink*,
+,Omnipods,,,,,,,
+,Head,,,,,,,
+,Left Arm,"2 Energy (Available Actuators: Upper, Lower)","5 Energy (Available Actuators: Upper, Lower)",2 Energy (Available Actuators: Upper),1 Missile (Available Actuators: Upper),"2 Energy (Available Actuators: Upper, Lower)","3 Energy (Available Actuators: Upper, Lower)",
+,Left Torso,,,,,,3 Jump Jet,
+,Center Torso,,,,,,,
+,Right Torso,,,,,,3 Jump Jet,
+,Right Arm,"2 Energy (Available Actuators: Upper, Lower)","5 Energy (Available Actuators: Upper, Lower)",2 Energy (Available Actuators: Upper),4 Energy (Available Actuators: Upper),"2 Energy (Available Actuators: Upper, Lower)",1 Ballistic (Available Actuators: Upper),
+,,,,,,,,
+,,,,,,,,
+,Griffin IIC,Griffin IIC,Griffin IIC 2,Griffin IIC 3,Griffin IIC 4,,,
+,Overview,http://cfw.sarna.net/wiki/images/e/e5/Griffin_iic-4.jpg,http://www.sarna.net/wiki/Griffin_IIC,,,,,
+,Type,Battlemech,Battlemech,Battlemech,Battlemech,,,
+,Tonnage,40,40,40,40,,,
+,Engine,240 Standard,240 Standard,240 Standard,240 Standard,,,
+,Top Speed,97.2 kph,97.2 kph,97.2 kph,97.2 kph,,,
+,Max. Engine,315,315,315,315-360,,,
+,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,,,
+,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,,,
+,Heat Sinks,10 Double,10 Double,10 Double,10 Double,,,
+,Jump Jets,6,6,6,6,,,
+,ECM Capable,No,No,No,No,,,
+,MASC Capable,No,No,No,No,,,
+,Weapons and Equipment,,,,,,,
+,Head,ER Small Laser,ER Small Laser,Heavy Small Laser,ER Small Laser,,,
+,Left Arm,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,,,
+,Left Torso,"LRM-5 x2, LRM Ammo, Jump Jet x3","Streak SRM-2 x2, Streak Ammo, Jump Jet x3","Streak SRM-2, Heavy Medium Laser, Streak Ammo, Jump Jet x3","ATM-3, ATM Ammo, Jump Jet x3",,,
+,Center Torso,"Engine, ER Large Laser","Engine, ER Large Laser","Engine, ER Large Laser","Engine, ER Large Laser",,,
+,Right Torso,"LRM-5 x2, LRM Ammo, Jump Jet x3","Streak SRM-2 x2, Streak Ammo, Jump Jet x3","Streak SRM-2, Heavy Medium Laser, Streak Ammo, Jump Jet x3","ATM-3, ATM Ammo, Jump Jet x3",,,
+,Right Arm,,,,,,,
+,Left Leg,,,,,,,
+,Right Leg,,,,,,,
+,Hardpoints,,,,,,,
+,Head,1 Energy,1 Energy,1 Energy,1 Energy,,,
+,Left Arm,"(Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)",,,
+,Left Torso,2 Missile,2 Missile,"1 Energy, 1 Missile",1 Missile,,,
+,Center Torso,1 Energy,1 Energy,1 Energy,1 Energy,,,
+,Right Torso,2 Missile,2 Missile,"1 Energy, 1 Missile",1 Missile,,,
+,Right Arm,"(Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)",,,
+,,,,,,,,
+,,,,,,,,
+,Phantom,Prime,A,B,C,D,E,H
+,Overview,http://cfw.sarna.net/wiki/images/8/8b/Phantom_%281%29.jpg,http://www.sarna.net/wiki/Phantom_(BattleMech),,,,,
+,Type,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech
+,Tonnage,40,40,40,40,40,40,40
+,Engine,360 XL,360 XL,360 XL,360 XL,360 XL,360 XL,360 XL
+,Top Speed,145.8 kph,145.8 kph,145.8 kph,145.8 kph,145.8 kph,145.8 kph,145.8 kph
+,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous
+,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel
+,Heat Sinks,12 Double,12 Double,12 Double,12 Double,12 Double,12 Double,12 Double
+,Jump Jets,No,No,No,No,No,No,No
+,ECM Capable,Yes,No,No,No,No,No,No
+,MASC Capable,No,No,No,No,No,No,No
+,Weapons and Equipment,,,,,,,
+,Head,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*
+,Left Arm,"LRM-5, LRM Ammo, *Fixed Armor Slot, Fixed Structure Slot*","ER Small Laser x2, *Fixed Armor Slot, Fixed Structure Slot*","SRM-4, SRM Ammo, *Fixed Armor Slot, Fixed Structure Slot*","ER Small Laser x4, *Fixed Armor Slot, Fixed Structure Slot*","ER Medium Laser x2, *Fixed Armor Slot, Fixed Structure Slot*","Micro Pulse Laser x4, *Fixed Armor Slot, Fixed Structure Slot*","Heavy Small Laser x3, *Fixed Armor Slot, Fixed Structure Slot*"
+,Left Torso,"ER Small Laser, TAG, *Fixed Armor Slot, Fixed Structure Slot*","LRM-5, ER Small Laser, *Fixed Armor Slot, Fixed Structure Slot*","BAP, *Fixed Armor Slot, Fixed Structure Slot*","ER Medium Laser, *Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","ATM-3, ATM Ammo, *Fixed Armor Slot, Fixed Structure Slot*","Medium Pulse Laser, *Fixed Armor Slot, Fixed Structure Slot*"
+,Center Torso,"BAP, *Engine, Fixed Structure Slot*","ER Medium Laser, *Engine, Fixed Structure Slot*","ER Medium Laser, *Engine, Fixed Structure Slot*","Targeting Computer, *Engine, Fixed Structure Slot*","ER Medium Laser, *Engine, Fixed Structure Slot*","*Engine, Fixed Structure Slot*","Targeting Computer, *Engine, Fixed Structure Slot*"
+,Right Torso,"ECM, *Fixed Armor Slot, Fixed Structure Slot*","LRM-5, LRM Ammo, *Fixed Armor Slot, Fixed Structure Slot*","ER Small Laser, *Fixed Armor Slot, Fixed Structure Slot*","Flamer, *Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","Flamer, *Fixed Armor Slot, Fixed Structure Slot*"
+,Right Arm,"ER Medium Laser, *Fixed Armor Slot, Fixed Structure Slot*","ER Small Laser x2, *Fixed Armor Slot, Fixed Structure Slot*","SRM-4, SRM Ammo, *Fixed Armor Slot, Fixed Structure Slot*","ER Small Laser x4, *Fixed Armor Slot, Fixed Structure Slot*","ER Small Laser, Streak SRM-4, Streak Ammo, *Fixed Armor Slot, Fixed Structure Slot*","Micro Pulse Laser x4, *Fixed Armor Slot, Fixed Structure Slot*","Heavy Small Laser x3, *Fixed Armor Slot, Fixed Structure Slot*"
+,Left Leg,"*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*"
+,Right Leg,"*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*","*Fixed Armor Slot, Fixed Structure Slot*"
+,Omnipods,,,,,,,
+,Head,,,,,,,
+,Left Arm,"1 Missile (Available Actuators: Upper, Lower)","2 Energy (Available Actuators: Upper, Lower, Hand)","1 Missile (Available Actuators: Upper, Lower, Hand)","4 Energy (Available Actuators: Upper, Lower, Hand)","2 Energy (Available Actuators: Upper, Lower, Hand)","4 Energy (Available Actuators: Upper, Lower, Hand)","3 Energy (Available Actuators: Upper, Lower, Hand)"
+,Left Torso,2 Energy ,"1 Energy, 1 Missile",,1 Energy,,1 Missile,1 Energy
+,Center Torso,,1 Energy,1 Energy,,1 Energy,,
+,Right Torso,ECM,1 Missile,1 Energy,1 Energy,,,1 Energy
+,Right Arm,"1 Energy (Available Actuators: Upper, Lower, Hand)","2 Energy (Available Actuators: Upper, Lower, Hand)","1 Missile (Available Actuators: Upper, Lower, Hand)","4 Energy (Available Actuators: Upper, Lower, Hand)","1 Energy, 1 Missile (Available Actuators: Upper, Lower, Hand)","4 Energy (Available Actuators: Upper, Lower, Hand)","3 Energy (Available Actuators: Upper, Lower, Hand)"
+,,,,,,,,
+,,,,,,,,
+,Pouncer,Prime,A,B,C,D,E,H
+,Overview,http://cfw.sarna.net/wiki/images/4/4c/Pouncer_%281%29.jpg,,,,,,
+,Type,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech,Omnimech
+,Tonnage,40,40,40,40,40,40,40
+,Engine,240 XL,240 XL,240 XL,240 XL,240 XL,240 XL,240 XL
+,Top Speed,97.2 kph,97.2 kph,97.2 kph,97.2 kph,97.2 kph,97.2 kph,97.2 kph
+,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous
+,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel
+,Heat Sinks,12 Double,12 Double,12 Double,12 Double,12 Double,12 Double,15 Double
+,Jump Jets,5,5,5,5,5,5,5
+,ECM Capable,No,No,No,No,No,No,No
+,MASC Capable,No,No,No,No,No,No,No
+,Weapons and Equipment,,,,,,,
+,Head,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*
+,Left Arm,"ER PPC, *Fixed Double Heat Sink, Fixed Armor Slot*","LRM-15, LRM Ammo x2, *Fixed Double Heat Sink, Fixed Armor Slot*","ER Large Laser, SRM-4, SRM Ammo, *Fixed Double Heat Sink, Fixed Armor Slot*","ER Medium Laser x2, ER Small Laser, *Fixed Double Heat Sink, Fixed Armor Slot*","ER Medium Laser x3, *Fixed Double Heat Sink, Fixed Armor Slot*","ATM-9, *Fixed Double Heat Sink, Fixed Armor Slot*","Heavy Medium Laser x2, Heavy Small Laser, Double Heat Sink, *Fixed Double Heat Sink, Fixed Armor Slot*"
+,Left Torso,"ER Small Laser, *Fixed Jump Jet x2, Fixed Armor Slot x2, Fixed Structure Slot*","ER Medium Laser x2, *Fixed Jump Jet x2, Fixed Armor Slot x2, Fixed Structure Slot*","*Fixed Jump Jet x2, Fixed Armor Slot x2, Fixed Structure Slot*","ER Small Laser, *Fixed Jump Jet x2, Fixed Armor Slot x2, Fixed Structure Slot*","ER Small Laser, Streak SRM-6, Targeting Computer, *Fixed Jump Jet x2, Fixed Armor Slot x2, Fixed Structure Slot*","ER Medium Laser, ER Micro Laser, ATM Ammo x2, *Fixed Jump Jet x2, Fixed Armor Slot x2, Fixed Structure Slot*","Streak SRM-6, Targeting Computer, Double Heat Sink, *Fixed Jump Jet x2, Fixed Armor Slot x2, Fixed Structure Slot*"
+,Center Torso,"*Engine, Fixed Structure Slot, Fixed Jump Jet*","*Engine, Fixed Structure Slot, Fixed Jump Jet*","*Engine, Fixed Structure Slot, Fixed Jump Jet*","*Engine, Fixed Structure Slot, Fixed Jump Jet*","*Engine, Fixed Structure Slot, Fixed Jump Jet*","*Engine, Fixed Structure Slot, Fixed Jump Jet*","*Engine, Fixed Structure Slot, Fixed Jump Jet*"
+,Right Torso,"Targeting Computer, *Fixed Jump Jet x2, Fixed Double Heat Sink, Fixed Armor Slot x2, Fixed Structure Slot*","ER Medium Laser x2, ER Small Laser, *Fixed Jump Jet x2, Fixed Double Heat Sink, Fixed Armor Slot x2, Fixed Structure Slot*","LRM-10, LRM Ammo, *Fixed Jump Jet x2, Fixed Double Heat Sink, Fixed Armor Slot x2, Fixed Structure Slot*","ER Small Laser, AC Ammo x2, *Fixed Jump Jet x2, Fixed Double Heat Sink, Fixed Armor Slot x2, Fixed Structure Slot*","Stream SRM-6, Streak Ammo, *Fixed Jump Jet x2, Fixed Double Heat Sink, Fixed Armor Slot x2, Fixed Structure Slot*","ER Micro Laser, ATM Ammo x2, *Fixed Jump Jet x2, Fixed Double Heat Sink, Fixed Armor Slot x2, Fixed Structure Slot*","Streak SRM-6, SRM Ammo, *Fixed Jump Jet x2, Fixed Double Heat Sink, Fixed Armor Slot x2, Fixed Structure Slot*"
+,Right Arm,"ER PPC, *Fixed Double Heat Sink, Fixed Armor Slot*","LRM-15, LRM Ammo x2, *Fixed Double Heat Sink, Fixed Armor Slot*","ER Large Laser, SRM-4, SRM Ammo, *Fixed Double Heat Sink, Fixed Armor Slot*","Ultra AC/10, *Fixed Double Heat Sink, Fixed Armor Slot*","ER Medium Laser x3, *Fixed Double Heat Sink, Fixed Armor Slot*","ATM-9, *Fixed Double Heat Sink, Fixed Armor Slot*","Heavy Medium Laser x2, Double Heat Sink, *Fixed Double Heat Sink, Fixed Armor Slot*"
+,Left Leg,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*
+,Right Leg,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*
+,Omnipods,,,,,,,
+,Head,,,,,,,
+,Left Arm,1 Energy (Available Actuators: Upper),"1 Missile (Available Actuators: Upper, Lower, Hand)","1 Energy, 1 Missile (Available Actuators: Upper, Lower, Hand)",3 Energy (Available Actuators: Upper),"3 Energy (Available Actuators: Upper, Lower, Hand)","1 Missile (Available Actuators: Upper, Lower, Hand)",3 Energy (Available Actuators: Upper)
+,Left Torso,1 Energy,2 Energy,,1 Energy,"1 Energy, 1 Missile",2 Energy,1 Missile
+,Center Torso,,,,,,,
+,Right Torso,,3 Energy,1 Missile,1 Energy,1 Missile,1 Energy,1 Missile
+,Right Arm,1 Energy (Available Actuators: Upper),"1 Missile (Available Actuators: Upper, Lower, Hand)","1 Energy, 1 Missile (Available Actuators: Upper, Lower, Hand)",1 Ballistic (Available Actuators: Upper),"3 Energy (Available Actuators: Upper, Lower, Hand)","1 Missile (Available Actuators: Upper, Lower, Hand)",2 Energy (Available Actuators: Upper)

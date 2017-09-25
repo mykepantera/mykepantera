@@ -65,3 +65,33 @@
 ,Front Right Leg,"(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)"
 ,Rear Left Leg,"(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)"
 ,Rear Right Leg,"(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)","(Actuators: Upper, Lower, Foot)"
+,,,,,
+,,,,,
+,Battle Cobra IS,BLC-C-2O,BLC-C-2OA,BLC-C-2OB,BLC-C-2OC
+,Overview,http://cfw.sarna.net/wiki/images/c/c3/Battlecobra.jpg,http://www.sarna.net/wiki/Battle_Cobra,,
+,Type,Omnimech,Omnimech,Omnimech,Omnimech
+,Tonnage,40,40,40,40
+,Engine,200 Standard,200 Standard,200 Standard,200 Standard
+,Top Speed,81 kph,81 kph,81 kph,81 kph
+,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous
+,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel
+,Heat Sinks,11 Double,11 Double,10 Double,10 Double
+,Jump Jets,No,No,No,No
+,ECM Capable,No,Yes,No,No
+,MASC Capable,No,No,No,No
+,Weapons and Equipment,,,,
+,Head,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*
+,Left Arm,"Large Pulse Laser, *Fixed Armor Slot x2, Fixed Structure Slot x2*","Medium Pulse Laser x3, Small Pulse Laser, BAP, *Fixed Armor Slot x2, Fixed Structure Slot x2*","MRM-10 x2, *Fixed Armor Slot x2, Fixed Structure Slot x2*","Narc, Narc Ammo, *Fixed Armor Slot x2, Fixed Structure Slot x2*"
+,Left Torso,"*Double Heat Sink, Fixed Armor Slot x3, Fixed Structure Slot x6*","*Double Heat Sink, Fixed Armor Slot x3, Fixed Structure Slot x6*","*Double Heat Sink, Fixed Armor Slot x3, Fixed Structure Slot x6*","*Double Heat Sink, Fixed Armor Slot x3, Fixed Structure Slot x6*"
+,Center Torso,"*Engine, Improved C3 Computer*","*Engine, Improved C3 Computer*","*Engine, Improved C3 Computer*","*Engine, Improved C3 Computer*"
+,Right Torso,"Double Heat Sink, *Double Heat Sink, Fixed Armor Slot x3, Fixed Structure Slot x3*","Double Heat Sink, *Double Heat Sink, Fixed Armor Slot x3, Fixed Structure Slot x3*","MRM Ammo x3, *Double Heat Sink, Fixed Armor Slot x3, Fixed Structure Slot x3*","Narc Ammo x3, *Double Heat Sink, Fixed Armor Slot x3, Fixed Structure Slot x3*"
+,Right Arm,"Large Pulse Laser, *Fixed Armor Slot x2, Fixed Structure Slot x2*","Medium Laser x3, TAG, ECM, *Fixed Armor Slot x2, Fixed Structure Slot x2*","MRM-10 x2, *Fixed Armor Slot x2, Fixed Structure Slot x2*","Narc, Narc Ammo, *Fixed Armor Slot x2, Fixed Structure Slot x2*"
+,Left Leg,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*
+,Right Leg,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*,*Fixed Structure Slot x2*
+,Omnipods,,,,
+,Head,,,,
+,Left Arm,"1 Energy (Available Actuators: Upper, Lower)",4 Energy (Available Actuators: Upper),"2 Missile (Available Actuators: Upper, Lower)","1 Missile (Available Actuators: Upper, Lower)"
+,Left Torso,,,,
+,Center Torso,,,,
+,Right Torso,,,,
+,Right Arm,"1 Energy (Available Actuators: Upper, Lower)","4 Energy, ECM (Available Actuators: Upper)","2 Missile (Available Actuators: Upper, Lower)","1 Missile (Available Actuators: Upper, Lower)"
