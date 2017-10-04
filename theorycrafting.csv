@@ -1,33 +1,33 @@
-,,,,,,,,
-,Theorycrafting,,,,,,,
-,,,,,,,,
-,,,,,,,,
-,Piranha,Piranha,Piranha 2 'No Ghost Heat',Piranha 2 'All In',Piranha 3,Piranha A,Piranha B,Piranha CI 'Cipher'
-,Overview,https://mwomercs.com/static/packages/piranha/img/concept-piranha-hero.png,https://mwomercs.com/piranha,,,,,
-,Type,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech
-,Tonnage,20,20,20,20,20,20,20
-,Engine,180 XL,180 XL,180 XL,180 XL,180 XL,180 XL,180 XL
-,Top Speed,145.8 kph,145.8 kph,145.8 kph,145.8 kph,145.8 kph,145.8 kph,145.8 kph
-,Max. Engine,180,180,180,180,180,180,180
-,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous
-,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel
-,Heat Sinks,10 Single,10 Double,13 Double,10 Double,10 Double,12 Double,11 Double
-,Jump Jets,No,No,No,No,No,No,No
-,ECM Capable,No,No,No,No,No,No,No
-,MASC Capable,No,No,No,No,No,No,No
-,Weapons and Equipment,,,,,,,
-,Head,Machine Gun Ammo,,,Machine Gun Ammo x0.5,Machine Gun Ammo,Machine Gun Ammo,Machine Gun Ammo
-,Left Arm,ER Small Laser,,ER Micro Laser,ER Small Laser x2,,ER Small Laser x2,
-,Left Torso,"Light Machine Gun x6, Single Heat Sink x3, Machine Gun Ammo x0.5",ER Micro Laser x4,"ER Micro Laser x6, Double Heat Sink x2",Machine Gun x5,"Machine Gun x4, Laser AMS x2, Double Heat Sink, Machine Gun Ammo x0.5","Machine Gun x2, Double Heat Sink","Light Machine Gun x3, ER Micro Laser x3, Double Heat Sink"
-,Center Torso,"Engine, ER Small Laser, Machine Gun Ammo","Engine, ER Large Laser, Targeting Computer","Engine, ER Micro Laser, Light BAP","Engine, Machine Gun Ammo x2","Engine, ER Medium Laser, Machine Gun Ammo","Engine, ER Small Laser x2","Engine, ER Micro Laser, Machine Gun Ammo"
-,Right Torso,Light Machine Gun x6,"ER Micro Laser x4, Double Heat Sink, Light BAP","ER Micro Laser x6, Double Heat Sink x2","Machine Gun x5, Double Heat Sink","Machine Gun x4, Laser AMS x2","Machine Gun x2, Double Heat Sink x2","Light Machine Gun x3, ER Micro Laser x3, Double Heat Sink, Targeting Computer"
-,Right Arm,ER Small Laser,,ER Micro Laser,ER Small Laser x2,,ER Small Laser x2,ER Micro Laser
-,Left Leg,,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink
-,Right Leg,,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink
-,Hardpoints,,,,,,,
-,Head,,,,,,,
-,Left Arm,"1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)"
-,Left Torso,"6 Ballistic, 1 AMS","6 Energy, 1 AMS","6 Energy, 1 AMS","5 Energy, 1 AMS","4 Ballistic, 2 AMS","2 Ballistic, 1 AMS","3 Ballistic, 3 Energy, 1 AMS"
-,Center Torso,1 Energy ,1 Energy,1 Energy,,1 Energy,2 Energy,1 Energy
-,Right Torso,6 Ballistic,6 Energy,6 Energy,5 Energy,"4 Ballistic, 2 AMS",2 Ballistic,"3 Ballistic, 3 Energy"
-,Right Arm,"1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)"
+,,,,,,,,,
+,Theorycrafting,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,Piranha,Piranha 1,Piranha 1 'Special',Piranha 2 'No Ghost Heat',Piranha 2 'All In',Piranha 3,Piranha A,Piranha B,Piranha CI 'Cipher'
+,Overview,https://mwomercs.com/static/packages/piranha/img/concept-piranha-hero.png,https://mwomercs.com/piranha,,,,,,
+,Type,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech
+,Tonnage,20,20,20,20,20,20,20,20
+,Engine,180 XL,180 XL,180 XL,180 XL,180 XL,180 XL,180 XL,180 XL
+,Top Speed,145.8 kph,145.8 kph,145.8 kph,145.8 kph,145.8 kph,145.8 kph,145.8 kph,145.8 kph
+,Max. Engine,180,180,180,180,180,180,180,180
+,Armor,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous,Ferro-Fibrous
+,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel
+,Heat Sinks,10 Single,10 Single,10 Double,13 Double,10 Double,10 Double,12 Double,10 Double
+,Jump Jets,No,No,No,No,No,No,No,No
+,ECM Capable,No,No,No,No,No,No,No,No
+,MASC Capable,No,No,No,No,No,No,No,No
+,Weapons and Equipment,,,,,,,,
+,Head,Machine Gun Ammo,Machine Gun Ammo,,,Machine Gun Ammo,Machine Gun Ammo,Machine Gun Ammo,Machine Gun Ammo
+,Left Arm,ER Small Laser,,,ER Micro Laser,ER Micro Laser x2,,ER Small Laser x2,
+,Left Torso,"Light Machine Gun x6, Single Heat Sink x3, Machine Gun Ammo x0.5","Machine Gun x6, Machine Gun Ammo, Single Heat Sink x2","ER Micro Laser x4, Double Heat Sink, Light BAP","ER Micro Laser x6, Double Heat Sink x2","Machine Gun x5, Machine Gun Ammo x0.5, Double Heat Sink","Machine Gun x4, Laser AMS x2, Double Heat Sink, Machine Gun Ammo x0.5","Light Machine Gun x2, Double Heat Sink","Machine Gun x3, Machine Gun Ammo x0.5, Micro Pulse Laser x3, Double Heat Sink"
+,Center Torso,"Engine, ER Small Laser, Machine Gun Ammo","Engine, Micro Pulse Laser, Machine Gun Ammo","Engine, ER Large Laser, Targeting Computer","Engine, ER Micro Laser, Light BAP","Engine, Machine Gun Ammo x2","Engine, ER Medium Laser, Machine Gun Ammo","Engine, ER Small Laser x2","Engine, Micro Pulse Laser, Machine Gun Ammo"
+,Right Torso,Light Machine Gun x6,"Machine Gun x6, Machine Gun Ammo, Single Heat Sink",ER Micro Laser x4,"ER Micro Laser x6, Double Heat Sink x2",Machine Gun x5,"Machine Gun x4, Laser AMS x2","Light Machine Gun x2, Double Heat Sink x2","Machine Gun x3, Micro Pulse Laser x3"
+,Right Arm,ER Small Laser,,,ER Micro Laser,ER Micro Laser x2,,ER Small Laser x2,
+,Left Leg,,,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink
+,Right Leg,,,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink
+,Hardpoints,,,,,,,,
+,Head,,,,,,,,
+,Left Arm,"1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)"
+,Left Torso,"6 Ballistic, 1 AMS","6 Ballistic, 1 AMS","6 Energy, 1 AMS","6 Energy, 1 AMS","5 Energy, 1 AMS","4 Ballistic, 2 AMS","2 Ballistic, 1 AMS","3 Ballistic, 3 Energy, 1 AMS"
+,Center Torso,1 Energy ,1 Energy ,1 Energy,1 Energy,,1 Energy,2 Energy,1 Energy
+,Right Torso,6 Ballistic,6 Ballistic,6 Energy,6 Energy,5 Energy,"4 Ballistic, 2 AMS",2 Ballistic,"3 Ballistic, 3 Energy"
+,Right Arm,"1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)","2 Energy (Actuators: Upper, Lower, Hand)","1 Energy (Actuators: Upper, Lower, Hand)"
