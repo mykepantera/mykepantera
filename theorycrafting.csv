@@ -17,11 +17,11 @@
 ,MASC Capable,No,No,No,No,No,No,No,No
 ,Weapons and Equipment,,,,,,,,
 ,Head,Machine Gun Ammo,Machine Gun Ammo,,,Machine Gun Ammo,Machine Gun Ammo,Machine Gun Ammo,Machine Gun Ammo
-,Left Arm,ER Small Laser,,,ER Micro Laser,ER Micro Laser x2,,ER Small Laser x2,
-,Left Torso,"Light Machine Gun x6, Single Heat Sink x3, Machine Gun Ammo x0.5","Machine Gun x6, Machine Gun Ammo, Single Heat Sink x2","ER Micro Laser x4, Double Heat Sink, Light BAP","ER Micro Laser x6, Double Heat Sink x2","Machine Gun x5, Machine Gun Ammo x0.5, Double Heat Sink","Machine Gun x4, Laser AMS x2, Double Heat Sink, Machine Gun Ammo x0.5","Light Machine Gun x2, Double Heat Sink","Machine Gun x3, Machine Gun Ammo x0.5, Micro Pulse Laser x3, Double Heat Sink"
-,Center Torso,"Engine, ER Small Laser, Machine Gun Ammo","Engine, Micro Pulse Laser, Machine Gun Ammo","Engine, ER Large Laser, Targeting Computer","Engine, ER Micro Laser, Light BAP","Engine, Machine Gun Ammo x2","Engine, ER Medium Laser, Machine Gun Ammo","Engine, ER Small Laser x2","Engine, Micro Pulse Laser, Machine Gun Ammo"
-,Right Torso,Light Machine Gun x6,"Machine Gun x6, Machine Gun Ammo, Single Heat Sink",ER Micro Laser x4,"ER Micro Laser x6, Double Heat Sink x2",Machine Gun x5,"Machine Gun x4, Laser AMS x2","Light Machine Gun x2, Double Heat Sink x2","Machine Gun x3, Micro Pulse Laser x3"
-,Right Arm,ER Small Laser,,,ER Micro Laser,ER Micro Laser x2,,ER Small Laser x2,
+,Left Arm,ER Micro Laser,,,ER Micro Laser,ER Micro Laser x2,,ER Small Laser x2,
+,Left Torso,"Light Machine Gun x6, Machine Gun Ammo x0.5","Machine Gun x6, Machine Gun Ammo, Single Heat Sink x2","ER Micro Laser x4, Double Heat Sink, Light BAP","ER Micro Laser x6, Double Heat Sink x2","Machine Gun x5, Machine Gun Ammo x0.5, Double Heat Sink","Machine Gun x4, Laser AMS x2, Double Heat Sink, Machine Gun Ammo x0.5","Light Machine Gun x2, Double Heat Sink","Machine Gun x3, Machine Gun Ammo x0.5, Micro Pulse Laser x3, Double Heat Sink"
+,Center Torso,"Engine, ER Micro Laser, Machine Gun Ammo","Engine, Micro Pulse Laser, Machine Gun Ammo","Engine, ER Large Laser, Targeting Computer","Engine, ER Micro Laser, Light BAP","Engine, Machine Gun Ammo x2","Engine, ER Medium Laser, Machine Gun Ammo","Engine, ER Small Laser x2","Engine, Micro Pulse Laser, Machine Gun Ammo"
+,Right Torso,"Light Machine Gun x6, Machine Gun Ammo, Single Heat Sink x3","Machine Gun x6, Machine Gun Ammo, Single Heat Sink",ER Micro Laser x4,"ER Micro Laser x6, Double Heat Sink x2",Machine Gun x5,"Machine Gun x4, Laser AMS x2","Light Machine Gun x2, Double Heat Sink x2","Machine Gun x3, Micro Pulse Laser x3"
+,Right Arm,ER Micro Laser,,,ER Micro Laser,ER Micro Laser x2,,ER Small Laser x2,
 ,Left Leg,,,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink
 ,Right Leg,,,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink,Double Heat Sink
 ,Hardpoints,,,,,,,,
