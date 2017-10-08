@@ -183,7 +183,7 @@ begin
             overview = true
             next
           elsif overview 
-            if i == 2 && cell.end_with?("jpg") or cell.end_with?("png") or cell.end_with?("gif")
+            if i == 2 && cell.downcase.end_with?("jpg") or cell.end_with?("png") or cell.end_with?("gif")
               generator.image = cell
             elsif i == 3 && !cell.empty?
               generator.sarna = cell
