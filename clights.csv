@@ -197,7 +197,7 @@
 ,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel,Endo-Steel
 ,Heat Sinks,10 Double,10 Double,10 Double,10 Double,10 Double,10 Double,10 Double
 ,Jump Jets,No,No,No,No,No,No,No
-,ECM Capable,No,No,No,No,No,No,No
+,ECM Capable,No,No,Yes,No,No,No,No
 ,MASC Capable,Yes,Yes,Yes,Yes,Yes,Yes,Yes
 ,Weapons and Equipment,,,,,,,
 ,Head,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*,*Fixed Armor Slot*
