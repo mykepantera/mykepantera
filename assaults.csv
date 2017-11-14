@@ -1,0 +1,34 @@
+,,,,
+,Assaults,,,
+,,,,
+,Inner Sphere,,,
+,,,,
+,Fafnir,FNR-5,FNR-5B,FNR-6U (Jihad)
+,Overview,http://cfw.sarna.net/wiki/images/7/74/Fafnir_FMLA.jpg,,
+,Type,Battlemech,Battlemech,Battlemech
+,Tonnage,100,100,100
+,Engine,300 Standard,300 Standard,300 Light Fusion
+,Top Speed,48.6 kph,48.6 kph,48.6 kph
+,Max. Engine,360,360,360
+,Armor,Standard,Standard,Light Ferro-Fibrous
+,Internal Structure,Endo-Steel,Endo-Steel,Standard
+,Heat Sinks,10 Double,14 Double,12 Double
+,Jump Jets,No,No,No
+,ECM Capable,Yes,Yes,No
+,MASC Capable,No,No,No
+,Weapons and Equipment,,,
+,Head,Medium Pulse Laser,Medium Pulse Laser,
+,Left Arm,"ER Medium Laser, Gauss Ammo x2",ER Medium Laser x2,Ultra AC/20
+,Left Torso,"Heavy Gauss Rifle, CASE","Gauss Rifle, CASE, Double Heat Sink","Light PPC x2, UAC Ammo x3, CASE"
+,Center Torso,"Engine, ECM","Engine, ECM",Engine
+,Right Torso,"Heavy Gauss Rifle, CASE","Gauss Rifle, CASE, Double Heat Sink","Light PPC x2, UAC Ammo x3, CASE"
+,Right Arm,"ER Medium Laser, Gauss Ammo x2","ER Large Laser, ER Medium Laser",Ultra AC/20
+,Left Leg,Gauss Ammo x2,Gauss Ammo x2,
+,Right Leg,Gauss Ammo x2,Gauss Ammo x2,
+,Hardpoints,,,
+,Head,1 Energy,1 Energy,
+,Left Arm,1 Energy (Available Actuators: Upper),2 Energy (Available Actuators: Upper),2(1) Ballistic (Available Actuators: Upper)
+,Left Torso,2(1) Ballistic,1 Ballistic,2 Energy
+,Center Torso,ECM,ECM,
+,Right Torso,2(1) Ballistic,1 Ballistic,2 Energy
+,Right Arm,1 Energy (Available Actuators: Upper),2 Energy (Available Actuators: Upper),2(1) Ballistic (Available Actuators: Upper)
