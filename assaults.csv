@@ -1,34 +1,251 @@
-,,,,
-,Assaults,,,
-,,,,
-,Inner Sphere,,,
-,,,,
-,Fafnir,FNR-5,FNR-5B,FNR-6U (Jihad)
-,Overview,http://cfw.sarna.net/wiki/images/7/74/Fafnir_FMLA.jpg,,
-,Type,Battlemech,Battlemech,Battlemech
-,Tonnage,100,100,100
-,Engine,300 Standard,300 Standard,300 Light Fusion
-,Top Speed,48.6 kph,48.6 kph,48.6 kph
-,Max. Engine,360,360,360
-,Armor,Standard,Standard,Light Ferro-Fibrous
-,Internal Structure,Endo-Steel,Endo-Steel,Standard
-,Heat Sinks,10 Double,14 Double,12 Double
-,Jump Jets,No,No,No
-,ECM Capable,Yes,Yes,No
-,MASC Capable,No,No,No
-,Weapons and Equipment,,,
-,Head,Medium Pulse Laser,Medium Pulse Laser,
-,Left Arm,"ER Medium Laser, Gauss Ammo x2",ER Medium Laser x2,Ultra AC/20
-,Left Torso,"Heavy Gauss Rifle, CASE","Gauss Rifle, CASE, Double Heat Sink","Light PPC x2, UAC Ammo x3, CASE"
-,Center Torso,"Engine, ECM","Engine, ECM",Engine
-,Right Torso,"Heavy Gauss Rifle, CASE","Gauss Rifle, CASE, Double Heat Sink","Light PPC x2, UAC Ammo x3, CASE"
-,Right Arm,"ER Medium Laser, Gauss Ammo x2","ER Large Laser, ER Medium Laser",Ultra AC/20
-,Left Leg,Gauss Ammo x2,Gauss Ammo x2,
-,Right Leg,Gauss Ammo x2,Gauss Ammo x2,
-,Hardpoints,,,
-,Head,1 Energy,1 Energy,
-,Left Arm,1 Energy (Available Actuators: Upper),2 Energy (Available Actuators: Upper),2(1) Ballistic (Available Actuators: Upper)
-,Left Torso,2(1) Ballistic,1 Ballistic,2 Energy
-,Center Torso,ECM,ECM,
-,Right Torso,2(1) Ballistic,1 Ballistic,2 Energy
-,Right Arm,1 Energy (Available Actuators: Upper),2 Energy (Available Actuators: Upper),2(1) Ballistic (Available Actuators: Upper)
+,,,,,,,
+,Assaults,,,,,,
+,,,,,,,
+,Inner Sphere,,,,,,
+,,,,,,,
+,Fafnir,FNR-5,FNR-5B,FNR-6U (Jihad),,,
+,Overview,http://cfw.sarna.net/wiki/images/7/74/Fafnir_FMLA.jpg,,,,,
+,Type,Battlemech,Battlemech,Battlemech,,,
+,Tonnage,100,100,100,,,
+,Engine,300 Standard,300 Standard,300 Light Fusion,,,
+,Top Speed,48.6 kph,48.6 kph,48.6 kph,,,
+,Max. Engine,360,360,360,,,
+,Armor,Standard,Standard,Light Ferro-Fibrous,,,
+,Internal Structure,Endo-Steel,Endo-Steel,Standard,,,
+,Heat Sinks,10 Double,14 Double,12 Double,,,
+,Jump Jets,No,No,No,,,
+,ECM Capable,Yes,Yes,No,,,
+,MASC Capable,No,No,No,,,
+,Weapons and Equipment,,,,,,
+,Head,Medium Pulse Laser,Medium Pulse Laser,,,,
+,Left Arm,"ER Medium Laser, Gauss Ammo x2",ER Medium Laser x2,Ultra AC/20,,,
+,Left Torso,"Heavy Gauss Rifle, CASE","Gauss Rifle, CASE, Double Heat Sink","Light PPC x2, UAC Ammo x3, CASE",,,
+,Center Torso,"Engine, ECM","Engine, ECM",Engine,,,
+,Right Torso,"Heavy Gauss Rifle, CASE","Gauss Rifle, CASE, Double Heat Sink","Light PPC x2, UAC Ammo x3, CASE",,,
+,Right Arm,"ER Medium Laser, Gauss Ammo x2","ER Large Laser, ER Medium Laser",Ultra AC/20,,,
+,Left Leg,Gauss Ammo x2,Gauss Ammo x2,,,,
+,Right Leg,Gauss Ammo x2,Gauss Ammo x2,,,,
+,Hardpoints,,,,,,
+,Head,1 Energy,1 Energy,,,,
+,Left Arm,1 Energy (Available Actuators: Upper),2 Energy (Available Actuators: Upper),2(1) Ballistic (Available Actuators: Upper),,,
+,Left Torso,2(1) Ballistic,1 Ballistic,2 Energy,,,
+,Center Torso,ECM,ECM,,,,
+,Right Torso,2(1) Ballistic,1 Ballistic,2 Energy,,,
+,Right Arm,1 Energy (Available Actuators: Upper),2 Energy (Available Actuators: Upper),2(1) Ballistic (Available Actuators: Upper),,,
+,,,,,,,
+,,,,,,,
+,Berserker,BRZ-A3,BRZ-B3,BRZ-C3,,,
+,Overview,http://cfw.sarna.net/wiki/images/1/1c/3055u_Berserker.jpg,,,,,
+,Type,Battlemech,Battlemech,Battlemech,,,
+,Tonnage,100,100,100,,,
+,Engine,400 XL,400 XL,400 Light Fusion,,,
+,Top Speed,64.8 kph,64.8 kph,64.8 kph,,,
+,Max. Engine,400,400,400,,,
+,Armor,Standard,Standard,Standard,,,
+,Internal Structure,Endo-Steel,Endo-Steel,Endo-Steel,,,
+,Heat Sinks,16 Double,16 Double,15 Double,,,
+,Jump Jets,No,No,No,,,
+,ECM Capable,Yes,Yes,Yes,,,
+,MASC Capable,Yes,Yes,TSM,,,
+,Weapons and Equipment,,,,,,
+,Head,Flamer,Flamer,Flamer,,,
+,Left Arm,ER PPC,"ER PPC, LRM Ammo x4",ER PPC,,,
+,Left Torso,"Large Pulse Laser, MASC","LRM-10, MASC","ER Medium Laser x3, C3 Computer Slave",,,
+,Center Torso,"Engine, AMS, AMS Ammo","Engine, AMS, AMS Ammo","Engine, AMS, AMS Ammo",,,
+,Right Torso,"Large Pulse Laser, ECM","LRM-10, ECM","ER Medium Laser x3, ECM",,,
+,Right Arm,Hatchet,Hatchet,Hatchet,,,
+,Left Leg,,,,,,
+,Right Leg,,,,,,
+,Hardpoints,,,,,,
+,Head,1 Energy,1 Energy,1 Energy,,,
+,Left Arm,"2(1) Energy (Available Actuators: Upper, Lower)","2(1) Energy (Available Actuators: Upper, Lower)","1 Energy (Available Actuators: Upper, Lower)",,,
+,Left Torso,2(1) Energy,2(1) Missile,3 Energy,,,
+,Center Torso,1 AMS,1 AMS,1 AMS,,,
+,Right Torso,"2(1) Energy, ECM","2(1) Missile, ECM","3 Energy, ECM",,,
+,Right Arm,"1 Melee (Available Actuators: Upper, Lower, Hand)","1 Melee (Available Actuators: Upper, Lower, Hand)","1 Melee (Available Actuators: Upper, Lower, Hand)",,,
+,,,,,,,
+,,,,,,,
+,Devastator,DVS-1D (AC Quirks),DVS-S (Gauss Quirks),DVS-3,,,
+,Overview,http://cfw.sarna.net/wiki/images/5/51/Devastator.jpg,,,,,
+,Type,Battlemech,Battlemech,Battlemech,,,
+,Tonnage,100,100,100,,,
+,Engine,300 Standard,300 XL,300 XL,,,
+,Top Speed,48.6 kph,48.6 kph,48.6 kph,,,
+,Max. Engine,360,360,360,,,
+,Armor,Standard,Standard,Standard,,,
+,Internal Structure,Standard,Standard,Standard,,,
+,Heat Sinks,15 Single,14 Double,14 Double,,,
+,Jump Jets,No,No,No,,,
+,ECM Capable,No,No,No,,,
+,MASC Capable,No,No,No,,,
+,Weapons and Equipment,,,,,,
+,Head,Medium Laser,Medium Laser,,,,
+,Left Arm,"AC/10, AC Ammo x2","Gauss Rifle, Gauss Ammo","Gauss Rifle, Gauss Ammo",,,
+,Left Torso,"Large Laser, Medium Laser","PPC, Medium Laser, Double Heat Sink, Gauss Ammo","PPC, Double Heat Sink, Gauss Ammo x2",,,
+,Center Torso,"Engine, Medium Laser","Engine, Medium Laser","Engine, Medium Laser, Small Laser",,,
+,Right Torso,"Large Laser, Medium Laser","PPC, Medium Laser, Double Heat Sink, Gauss Ammo","PPC, Double Heat Sink, Gauss Ammo x2",,,
+,Right Arm,"AC/10, AC Ammo x2","Gauss Rifle, Gauss Ammo","Gauss Rifle, Gauss Ammo",,,
+,Left Leg,Single Heat Sink,,,,,
+,Right Leg,Single Heat Sink x2,,,,,
+,Hardpoints,,,,,,
+,Head,1 Energy,1 Energy,,,,
+,Left Arm,"2(1) Ballistic (Available Actuators: Upper, Lower)","1 Energy (Available Actuators: Upper, Lower)","3(1) Ballistic (Available Actuators: Upper, Lower)",,,
+,Left Torso,2 Energy,2 Energy,1 Energy,,,
+,Center Torso,1 Energy,1 Energy,2 Energy,,,
+,Right Torso,2 Energy,2 Energy,1 Energy,,,
+,Right Arm,"2(1) Energy (Available Actuators: Upper, Lower)","1 Energy (Available Actuators: Upper, Lower)","3(1) Ballistic (Available Actuators: Upper, Lower)",,,
+,,,,,,,
+,,,,,,,
+,Imp,IMP-1A,IMP-1B,IMP-1C,IMP-2E,IMP-3E,IMP-4E
+,Overview,http://cfw.sarna.net/wiki/images/5/55/3050U_Imp.jpg,,,,,
+,Type,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech
+,Tonnage,100,100,100,100,100,100
+,Engine,300 Standard,300 Standard,300 Standard,300 Standard,300 XL,300 Standard
+,Top Speed,48.6 kph,48.6 kph,48.6 kph,48.6 kph,48.6 kph,48.6 kph
+,Max. Engine,360,360,360,360,360,360
+,Armor,Standard,Standard,Standard,Standard,Standard,Standard
+,Internal Structure,Standard,Standard,Standard,Standard,Standard,Standard
+,Heat Sinks,18 Double,19 Double,17 Double,30 Single,30 Single,21 Double
+,Jump Jets,No,No,No,No,No,No
+,ECM Capable,No,Yes,Yes,No,No,No
+,MASC Capable,No,No,No,No,No,No
+,Weapons and Equipment,,,,,,
+,Head,Small Laser,Medium Pulse Laser,Small Laser,Single Heat Sink ,Single Heat Sink ,ER Medium Laser
+,Left Arm,"Medium Pulse Laser, Double Heat Sink x2","Medium Laser, Double Heat Sink x3","Medium Laser x2, Double Heat Sink x2",Medium Laser,"Large Pulse Laser, Single Heat Sink x3","ER Medium Laser, Double Heat Sink x3"
+,Left Torso,"ER PPC, Medium Laser, LRM Ammo x2, CASE, Double Heat Sink","ER PPC, Medium Laser, LRM Ammo x3, CASE, Double Heat Sink","ER PPC, Medium Laser, Double Heat Sink","PPC, Medium Laser, LRM Ammo, Single Heat Sink x6","ER PPC, LRM Ammo x2, CASE, Single Heat Sink x3","ER PPC, ER Small Laser, LRM Ammo x2, Double Heat Sink x2"
+,Center Torso,"Engine, Medium Pulse Laser x2","Engine, Medium Laser x2","Engine, Medium Laser x2","Engine, Medium Laser x2","Engine, Medium Pulse Laser x2","Engine, Medium Pulse Laser x2"
+,Right Torso,"ER PPC, Medium Pulse Laser, Double Heat Sink x2","ER PPC, Medium Laser ECM, Double Heat Sink x2","ER PPC, Medium Laser ECM, Double Heat Sink x2","PPC, Medium Laser, Single Heat Sink x7","ER PPC, Medium Laser x2, Single Heat Sink x4","ER PPC, ER Small Laser, Double Heat Sink x3"
+,Right Arm,"LRM-20 Artemis, Double Heat Sink","LRM-20 Artemis, Double Heat Sink","Gauss Rifle, Gauss Ammo x2",LRM-15,"LRM-15, Single Heat Sink x3","LRM-20 Artemis, ER Medium Laser, Double Heat Sink"
+,Left Leg,,,,Single Heat Sink x2,Single Heat Sink x2,
+,Right Leg,,,,Single Heat Sink x2,Single Heat Sink x2,
+,Hardpoints,,,,,,
+,Head,1 Energy,1 Energy,1 Energy,,,1 Energy
+,Left Arm,1 Energy (Available Actuators: Upper),1 Energy(Available Actuators: Upper),2 Energy (Available Actuators: Upper),1 Energy (Available Actuators: Upper),2(1) Energy (Available Actuators: Upper),2(1) Energy (Available Actuators: Upper)
+,Left Torso,2 Energy,2 Energy,2 Energy,3(2) Energy,1 Energy,2 Energy
+,Center Torso,2 Energy,2 Energy,2 Energy,2 Energy,2 Energy,2 Energy
+,Right Torso,2 Energy,"2 Energy, ECM","2 Energy, ECM",3(2) Energy,3 Energy,2 Energy
+,Right Arm,"2(1) Missile (Available Actuators: Upper, Lower)","1 Missile (Available Actuators: Upper, Lower)","1 Ballistic (Available Actuators: Upper, Lower)","1 Missile (Available Actuators: Upper, Lower)","2(1) Missile (Available Actuators: Upper, Lower)","1 Energy, 1 Missile (Available Actuators: Upper)"
+,,,,,,,
+,,,,,,,
+,Mackie,MSK-7A,MSK-8B,MSK-9H,,,
+,Overview,http://cfw.sarna.net/wiki/images/a/a9/Mackie.jpg,,,,,
+,Type,Battlemech,Battlemech,Battlemech,,,
+,Tonnage,100,100,100,,,
+,Engine,300 Standard,300 Standard,300 Standard,,,
+,Top Speed,48.6 kph,48.6 kph,48.6 kph,,,
+,Max. Engine,360,360,360,,,
+,Armor,Standard,Standard,Standard,,,
+,Internal Structure,Standard,Standard,Standard,,,
+,Heat Sinks,21 Single,21 Single,20 Single,,,
+,Jump Jets,No,No,No,,,
+,ECM Capable,No,No,Yes,,,
+,MASC Capable,No,No,No,,,
+,Weapons and Equipment,,,,,,
+,Head,Single Heat Sink,,,,,
+,Left Arm,PPC,PPC x2,"PPC x2, Single Heat Sink x3",,,
+,Left Torso,"Large Laser, Single Heat Sink",Single Heat Sink x3,"BAP, Single Heat Sink",,,
+,Center Torso,"Engine, Single Heat Sink x2","Engine, Medium Laser x2","Engine, Medium Laser x2",,,
+,Right Torso,"Large Laser, AC Ammo x4, Single Heat Sink","AC Ammo x4, CASE, Single Heat Sink x2","AC Ammo x4, CASE",,,
+,Right Arm,AC/20,AC/20,AC/20,,,
+,Left Leg,Single Heat Sink x2,Single Heat Sink x2,Single Heat Sink x2,,,
+,Right Leg,Single Heat Sink x2,Single Heat Sink x2,Single Heat Sink x2,,,
+,Hardpoints,,,,,,
+,Head,,,,,,
+,Left Arm,2(1) Energy (Available Actuators: Upper),"3(2) Energy (Available Actuators: Upper, Lower)","2 Energy (Available Actuators: Upper, Lower)",,,
+,Left Torso,2(1) Energy,,1(0) ECM,,,
+,Center Torso,,2 Energy,2 Energy ,,,
+,Right Torso,2(1) Energy,,,,,
+,Right Arm,2(1) Ballistic (Available Actuators: Upper),3(1) Ballistic (Available Actuators: Upper),2(1) Ballistic (Available Actuators: Upper),,,
+,,,,,,,
+,,,,,,,
+,Marauder II,MAD-4A,MAD-5A,MAD-5B,MAD-5C,MAD-4S,MAD-4H
+,Overview,http://cfw.sarna.net/wiki/images/7/76/MAD-MarauderII.png,http://www.sarna.net/wiki/Marauder_II,,,,
+,Type,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech,Battlemech
+,Tonnage,100,100,100,100,100,100
+,Engine,300 Standard,300 XL,300 Standard,300 XL,300 Light Fusion,300 Standard
+,Top Speed,48.6 kph,48.6 kph,48.6 kph,48.6 kph,48.6 kph,48.6 kph
+,Max. Engine,360,360,360,360,360,360
+,Armor,Standard,Standard,Standard,Standard,Standard,Standard
+,Internal Structure,Standard,Standard,Standard,Standard,Standard,Standard
+,Heat Sinks,29 Single,29 Single,16 Double,32 Single,16 Double,21 Single
+,Jump Jets,3,3,3,3,3,3
+,ECM Capable,No,No,No,No,No,No
+,MASC Capable,No,No,No,No,No,No
+,Weapons and Equipment,,,,,,
+,Head,,Single Heat Sink,,Single Heat Sink,,Rocket Launcher 10
+,Left Arm,"PPC, Medium Laser","ER PPC, Medium Laser, Single Heat Sink x3","ER PPC, Medium Laser, Double Heat Sink","ER PPC, Medium Laser, Single Heat Sink x3","ER PPC, ER Medium Laser, Double Heat Sink ","ER PPC, ER Medium Laser, Single Heat Sink x4"
+,Left Torso,Single Heat Sink x9,"LBX Ammo 3x, Single Heat Sink x6",Double Heat Sink,Single Heat Sink x9,"Gauss Ammo x4, Double Heat Sink x2","Rocket Launcher 20 x2, Rocket Launcher 15 x3"
+,Center Torso,"Engine, Jump Jet","Engine, Jump Jet","Engine, Jump Jet, Gauss Ammo","Engine, Jump Jet, Single Heat Sink","Engine, Jump Jet, Heavy Gauss Rifle (1 Slot)","Engine, Jump Jet, Single Heat Sink"
+,Right Torso,"Large Laser, Single Heat Sink x6","LB 10-X AC, CASE, Single Heat Sink x2","Gauss Rifle, Gauss Ammo x2, Double Heat Sink","Ultra AC/5, UAC Ammo x2, CASE, Single Heat Sink",Heavy Gauss Rifle (10 Slots),"Rocket Launcher 20 x2, Rocket Launcher 15 x3"
+,Right Arm,"PPC, Medium Laser","ER PPC, Medium Laser, Single Heat Sink x3","ER PPC, Medium Laser, Double Heat Sink","ER PPC, Medium Laser, Single Heat Sink x3","ER PPC, ER Medium Laser, Double Heat Sink ","ER PPC, ER Medium Laser, Single Heat Sink x4"
+,Left Leg,"Jump Jet, Single Heat Sink","Jump Jet, Single Heat Sink",Jump Jet,"Jump Jet, Single Heat Sink",Jump Jet,Jump Jet
+,Right Leg,"Jump Jet, Single Heat Sink","Jump Jet, Single Heat Sink",Jump Jet,"Jump Jet, Single Heat Sink",Jump Jet,Jump Jet
+,Hardpoints,,,,,,
+,Head,,,,,,1 Missile
+,Left Arm,"3(2) Energy (Available Actuators: Upper, Lower)","2 Energy (Available Actuators: Upper, Lower)","3(2) Energy (Available Actuators: Upper, Lower)","2 Energy (Available Actuators: Upper, Lower)","2 Energy (Available Actuators: Upper, Lower)","2 Energy (Available Actuators: Upper, Lower)"
+,Left Torso,,,,,,5 Missile
+,Center Torso,,,,,1(0) Ballistic,
+,Right Torso,2(1) Energy,4(1) Ballistic ,3(1) Ballistic,3(1) Ballistic,3(1) Ballistic ,5 Missile
+,Right Arm,"3(2) Energy (Available Actuators: Upper, Lower)","2 Energy (Available Actuators: Upper, Lower)","3(2) Energy (Available Actuators: Upper, Lower)","3(2) Energy (Available Actuators: Upper, Lower)","2 Energy (Available Actuators: Upper, Lower)","2 Energy (Available Actuators: Upper, Lower)"
+,,,,,,,
+,,,,,,,
+,Pillager,PLG-1N,PLG-3Z,PLG-4Z,,,
+,Overview,http://cfw.sarna.net/wiki/images/4/4c/Pillager.jpg,,,,,
+,Type,Battlemech,Battlemech,Battlemech,,,
+,Tonnage,100,100,100,,,
+,Engine,300 Standard,300 XL,300 Standard,,,
+,Top Speed,48.6 kph,48.6 kph,48.6 kph,,,
+,Max. Engine,360,360,360,,,
+,Armor,Standard,Standard,Standard,,,
+,Internal Structure,Standard,Standard,Standard,,,
+,Heat Sinks,16 Single,14 Double,10 Double,,,
+,Jump Jets,2,3,3,,,
+,ECM Capable,No,No,Yes,,,
+,MASC Capable,No,No,No,,,
+,Weapons and Equipment,,,,,,
+,Head,Medium Laser,Medium Laser,ER Medium Laser,,,
+,Left Arm,"Medium Laser, Single Heat Sink","Medium Laser x2, Double Heat Sink",ECM,,,
+,Left Torso,"AC/20, AC Ammo x2","Gauss Rifle, Gauss Ammo x2","Gauss Rifle, Gauss Ammo, CASE, Jump Jet",,,
+,Center Torso,"Engine, SRM-4, SRM Ammo","Engine, Jump Jet, Medium Laser","Engine, Jump Jet, ER Medium Laser",,,
+,Right Torso,"AC/20, AC Ammo x2","Gauss Rifle, Gauss Ammo x2","Gauss Rifle, Gauss Ammo, CASE, Jump Jet",,,
+,Right Arm,"Medium Laser, Single Heat Sink","Large Laser, Double Heat Sink",Gauss Ammo x3,,,
+,Left Leg,"Jump Jet, Single Heat Sink","Jump Jet, Gauss Ammo",,,,
+,Right Leg,"Jump Jet, Single Heat Sink","Jump Jet, Gauss Ammo",,,,
+,Hardpoints,,,,,,
+,Head,1 Energy,1 Energy,1 Energy,,,
+,Left Arm,"1 Energy (Available Actuators: Upper, Lower, Hand)","2 Energy (Available Actuators: Upper, Lower, Hand)","ECM (Available Actuators: Upper, Lower, Hand)",,,
+,Left Torso,2(1) Ballistic,1 Ballistic,3(1) Ballistic,,,
+,Center Torso,1 Missile,1 Energy,1 Energy,,,
+,Right Torso,2(1) Ballistic,1 Ballistic,3(1) Ballistic,,,
+,Right Arm,"1 Energy (Available Actuators: Upper, Lower, Hand)","2(1) Energy (Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)",,,
+,,,,,,,
+,,,,,,,
+,Thunder Hawk,TDK-7X,TDK-7Y,TDK-7KMA,TDK-7S,,
+,Overview,http://cfw.sarna.net/wiki/images/8/80/ThunderHawk.jpg,http://www.sarna.net/wiki/Thunder_Hawk,,,,
+,Type,Battlemech,Battlemech,Battlemech,Battlemech,,
+,Tonnage,100,100,100,100,,
+,Engine,300 XL,300 XL,300 XL,300 Light Fusion,,
+,Top Speed,48.6 kph,48.6 kph,48.6 kph,48.6 kph,,
+,Max. Engine,360,360,360,360,,
+,Armor,Standard,Standard,Standard,Standard,,
+,Internal Structure,Standard,Standard,Standard,Standard,,
+,Heat Sinks,10 Single,10 Single,10 Double,10 Single,,
+,Jump Jets,No,No,No,No,,
+,ECM Capable,No,No,No,No,,
+,MASC Capable,No,No,No,No,,
+,Weapons and Equipment,,,,,,
+,Head,Medium Laser,,Medium Laser,Medium Laser,,
+,Left Arm,Medium Laser x2,Medium Pulse Laser,"Arrow IV Missile (6 Slots), Medium Laser x2",,,
+,Left Torso,"Gauss Rifle, Gauss Ammo x2","Gauss Rifle, Gauss Ammo x2",Arrow IV Missile (9 Slots),"Gauss Rifle, Gauss Ammo",,
+,Center Torso,"Engine, Gauss Ammo x2","Engine, Gauss Ammo x2","Engine, Gauss Ammo x2",Engine,,
+,Right Torso,"Gauss Rifle, Gauss Ammo x2","Gauss Rifle, Gauss Ammo x2","Gauss Rifle, Gauss Ammo x2","Gauss Rifle, Gauss Ammo",,
+,Right Arm,"Gauss Rifle, Medium Laser","Gauss Rifle, Medium Pulse Laser","Gauss Rifle, Medium Laser","Gauss Rifle, Medium Laser",,
+,Left Leg,,,Arrow Ammo x2,,,
+,Right Leg,,,,,,
+,Hardpoints,,,,,,
+,Head,1 Energy,,1 Energy,1 Energy,,
+,Left Arm,"2 Energy (Available Actuators: Upper, Lower, Hand)","2(1) Energy (Available Actuators: Upper, Lower, Hand)","2 Energy (Available Actuators: Upper, Lower, Hand)","(Available Actuators: Upper, Lower, Hand)",,
+,Left Torso,1 Ballistic,2(1) Ballistic,"1 Artillery, 2(0) Missile",2(1) Ballistic,,
+,Center Torso,,,,,,
+,Right Torso,1 Ballistic,2(1) Ballistic,1 Ballistic,2(1) Ballistic,,
+,Right Arm,"1 Ballistic, 2(1) Energy (Available Actuators: Upper, Lower, Hand)","1 Ballistic, 1 Energy (Available Actuators: Upper, Lower, Hand)","1 Ballistic, 1 Energy (Available Actuators: Upper, Lower, Hand)","2(1) Ballistic, 1 Energy (Available Actuators: Upper, Lower, Hand)",,
